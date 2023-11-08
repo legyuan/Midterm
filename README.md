@@ -1,2 +1,2 @@
-# Midterm
-Sample for midterm project
+# Midterm Project
+midterm project
